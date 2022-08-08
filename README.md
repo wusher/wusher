@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your First Post on Bridgetown](https://wusher.github.io/myblog/updates/2022/08/07/welcome-to-bridgetown/)
+- [Your First Post on Bridgetown 2](https://wusher.github.io/myblog/updates/2022/08/07/welcome-to-bridgetown-copy/)
+- [Today I Learned](https://wusher.github.io/myblog/2022/08/08/2022-08-08_today-i-learned/)
 <!-- BLOG-POST-LIST:END -->
