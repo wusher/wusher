@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Your First Post on Bridgetown](https://wusher.github.io/myblog/updates/2022/08/07/welcome-to-bridgetown/)
-- [Your First Post on Bridgetown 2](https://wusher.github.io/myblog/updates/2022/08/07/welcome-to-bridgetown-copy/)
-- [Today I Learned](https://wusher.github.io/myblog/2022/08/08/2022-08-08_today-i-learned/)
+- [Today I Learned](https://wusher.github.io/myblog/til/2022/08/08/2022-08-08_today-i-learned/)
+- [Capybara](https://wusher.github.io/myblog/cheatsheet/2022/08/08/0000-00-00_cheatsheet_capybara/)
 <!-- BLOG-POST-LIST:END -->
