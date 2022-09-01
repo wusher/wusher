@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Today I Learned](https://wusher.github.io/myblog/til/2022/08/08/2022-08-08_today-i-learned/)
+- [Unregister Service Workers](https://wusher.github.io/myblog/til/blog/2022/09/01/2022-09-01_unregistering-service-workers/)
 - [Capybara](https://wusher.github.io/myblog/cheatsheet/2022/08/08/0000-00-00_cheatsheet_capybara/)
 <!-- BLOG-POST-LIST:END -->
