@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [File Uploads Without Form Helpers](https://wusher.github.io/myblog/til/blog/2022/09/02/2022-09-02_file-uploads-without-form-helpers/)
 - [Unregister Service Workers](https://wusher.github.io/myblog/til/blog/2022/09/01/2022-09-01_unregistering-service-workers/)
 - [Uninstall All Bundled Gems](https://wusher.github.io/myblog/til/blog/2022/09/01/2022-09-01_uninstall-all-bundled-gems/)
 - [Signout Users](https://wusher.github.io/myblog/til/blog/2022/09/01/2022-09-01_signout-users/)
 - [Inline Bundler Without Gemfile](https://wusher.github.io/myblog/til/blog/2022/09/01/2022-09-01_inline-bundler-without-gemfile/)
-- [Makefile Help](https://wusher.github.io/myblog/til/blog/2022/08/31/2022-08-31_makefile-help/)
 <!-- BLOG-POST-LIST:END -->
