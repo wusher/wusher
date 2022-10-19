@@ -2,6 +2,8 @@
 
 I write code.
 
+A jack of all trades is a master of none, but oftentimes better than a master of one.
+
 <!--
 **wusher/wusher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
